@@ -1,0 +1,9 @@
+{
+  "subject_id": 48,
+  "time": "2026-03-11T03:04:10",
+  "reason": "dead_cells>70%",
+  "conflict_count": 29,
+  "despair_factor": 9,
+  "efficiency": 1.1,
+  "algo": "coord_eff_1.100"
+}
